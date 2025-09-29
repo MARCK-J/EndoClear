@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
+import corneaSurgeryImage from '../assets/dmek-screenshot-300x169.jpg';
 
 const images = [
-  'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80',
+  corneaSurgeryImage,
   'https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80',
   'https://images.unsplash.com/photo-1511174511562-5f97f4f4eab6?auto=format&fit=crop&w=400&q=80'
 ];
